@@ -36,3 +36,4 @@
 3. https://leetcode.com/problems/permutations/description/
 4. https://leetcode.com/problems/combination-sum/description/
 5. https://leetcode.com/problems/combination-sum-ii/description/
+6. https://leetcode.com/problems/n-queens/description/
