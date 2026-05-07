@@ -37,3 +37,16 @@
 4. https://leetcode.com/problems/combination-sum/description/
 5. https://leetcode.com/problems/combination-sum-ii/description/
 6. https://leetcode.com/problems/n-queens/description/
+
+## Binary Tree
+#### Level Order Traversal
+1. https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+2. https://leetcode.com/problems/binary-tree-right-side-view/description/
+3. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+4. https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/
+5. https://leetcode.com/problems/maximum-width-of-binary-tree/description/
+#### Pre Order Traversal
+1. https://leetcode.com/problems/count-complete-tree-nodes/description/
+2. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+3. https://leetcode.com/problems/path-sum-iii/description/
+4. https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/
