@@ -10,6 +10,7 @@
 #### Slow and Fast pointers
 1. https://leetcode.com/problems/linked-list-cycle/
 2. https://leetcode.com/problems/middle-of-the-linked-list/description/
+3. https://leetcode.com/problems/linked-list-cycle-ii/description/
 #### LinkedList Reversal
 1. https://leetcode.com/problems/reverse-linked-list/description/
 2. https://leetcode.com/problems/palindrome-linked-list/description/
@@ -50,3 +51,17 @@
 2. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
 3. https://leetcode.com/problems/path-sum-iii/description/
 4. https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/
+#### In Order Traversal
+1. https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/
+2. https://leetcode.com/problems/validate-binary-search-tree/description/
+3. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+4. https://leetcode.com/problems/binary-search-tree-iterator/description/
+
+## Greedy
+1. https://leetcode.com/problems/assign-cookies/description/
+2. https://leetcode.com/problems/maximum-units-on-a-truck/description/
+
+## Dynamic Programming
+1. https://leetcode.com/problems/climbing-stairs/description/
+2. https://leetcode.com/problems/min-cost-climbing-stairs/description/
+3. https://leetcode.com/problems/house-robber/description/
