@@ -56,6 +56,13 @@
 2. https://leetcode.com/problems/validate-binary-search-tree/description/
 3. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
 4. https://leetcode.com/problems/binary-search-tree-iterator/description/
+#### Post Order Traversal
+1. https://leetcode.com/problems/diameter-of-binary-tree/description/
+2. https://leetcode.com/problems/delete-nodes-and-return-forest/description/
+3. https://leetcode.com/problems/find-duplicate-subtrees/description/
+4. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+5. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
+6. https://leetcode.com/problems/distribute-coins-in-binary-tree/description/
 
 ## Greedy
 1. https://leetcode.com/problems/assign-cookies/description/
