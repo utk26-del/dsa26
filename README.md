@@ -31,6 +31,13 @@
 3. https://leetcode.com/problems/container-with-most-water/description/
 4. https://leetcode.com/problems/trapping-rain-water/
 
+## Prefix Sum
+1. https://leetcode.com/problems/range-sum-query-immutable/description/
+2. https://leetcode.com/problems/subarray-sum-equals-k/description/
+3. https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
+4. https://leetcode.com/problems/continuous-subarray-sum/description/
+5. https://leetcode.com/problems/contiguous-array/description/
+
 ## Backtracking
 1. https://leetcode.com/problems/generate-parentheses/description/
 2. https://leetcode.com/problems/subsets/description/
@@ -38,6 +45,17 @@
 4. https://leetcode.com/problems/combination-sum/description/
 5. https://leetcode.com/problems/combination-sum-ii/description/
 6. https://leetcode.com/problems/n-queens/description/
+
+## Stack
+1. https://leetcode.com/problems/min-stack/description/
+2. https://leetcode.com/problems/implement-stack-using-queues/description/
+3. https://leetcode.com/problems/valid-parentheses/description/
+4. https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/
+5. https://leetcode.com/problems/remove-duplicate-letters/description/
+6. https://leetcode.com/problems/removing-stars-from-a-string/description/
+7. https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+8. https://leetcode.com/problems/basic-calculator-ii/description/
+9. https://leetcode.com/problems/longest-valid-parentheses/description/
 
 ## Binary Tree
 #### Level Order Traversal
