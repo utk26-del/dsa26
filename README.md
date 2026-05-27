@@ -82,9 +82,19 @@
 5. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
 6. https://leetcode.com/problems/distribute-coins-in-binary-tree/description/
 
+## Heaps
+1. https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+2. https://leetcode.com/problems/merge-k-sorted-lists/description/
+3. https://leetcode.com/problems/k-closest-points-to-origin/description/
+4. https://leetcode.com/problems/top-k-frequent-elements/description/
+5. https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/
+6. https://leetcode.com/problems/find-median-from-data-stream/description/
+
 ## Greedy
 1. https://leetcode.com/problems/assign-cookies/description/
-2. https://leetcode.com/problems/maximum-units-on-a-truck/description/
+2. https://leetcode.com/problems/distribute-candies/description/
+3. https://leetcode.com/problems/maximum-units-on-a-truck/description/
+4. https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 
 ## Dynamic Programming
 1. https://leetcode.com/problems/climbing-stairs/description/
